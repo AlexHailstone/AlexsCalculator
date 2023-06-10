@@ -1,0 +1,17 @@
+C:\Users\alexa\OneDrive\Documents\C# Repo\AlexsCalculator\bin\Debug\net6.0-windows\AlexsCalculator.exe
+C:\Users\alexa\OneDrive\Documents\C# Repo\AlexsCalculator\bin\Debug\net6.0-windows\AlexsCalculator.deps.json
+C:\Users\alexa\OneDrive\Documents\C# Repo\AlexsCalculator\bin\Debug\net6.0-windows\AlexsCalculator.runtimeconfig.json
+C:\Users\alexa\OneDrive\Documents\C# Repo\AlexsCalculator\bin\Debug\net6.0-windows\AlexsCalculator.dll
+C:\Users\alexa\OneDrive\Documents\C# Repo\AlexsCalculator\bin\Debug\net6.0-windows\AlexsCalculator.pdb
+C:\Users\alexa\OneDrive\Documents\C# Repo\AlexsCalculator\obj\Debug\net6.0-windows\AlexsCalculator.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Documents\C# Repo\AlexsCalculator\obj\Debug\net6.0-windows\AlexsCalculator.csproj.GenerateResource.cache
+C:\Users\alexa\OneDrive\Documents\C# Repo\AlexsCalculator\obj\Debug\net6.0-windows\AlexsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Documents\C# Repo\AlexsCalculator\obj\Debug\net6.0-windows\AlexsCalculator.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Documents\C# Repo\AlexsCalculator\obj\Debug\net6.0-windows\AlexsCalculator.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Documents\C# Repo\AlexsCalculator\obj\Debug\net6.0-windows\AlexsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Documents\C# Repo\AlexsCalculator\obj\Debug\net6.0-windows\AlexsCalculator.dll
+C:\Users\alexa\OneDrive\Documents\C# Repo\AlexsCalculator\obj\Debug\net6.0-windows\refint\AlexsCalculator.dll
+C:\Users\alexa\OneDrive\Documents\C# Repo\AlexsCalculator\obj\Debug\net6.0-windows\AlexsCalculator.pdb
+C:\Users\alexa\OneDrive\Documents\C# Repo\AlexsCalculator\obj\Debug\net6.0-windows\AlexsCalculator.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Documents\C# Repo\AlexsCalculator\obj\Debug\net6.0-windows\ref\AlexsCalculator.dll
+C:\Users\alexa\OneDrive\Documents\C# Repo\AlexsCalculator\obj\Debug\net6.0-windows\AlexsCalculator.Calculator.resources
